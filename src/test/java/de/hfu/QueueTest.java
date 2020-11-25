@@ -54,7 +54,4 @@ public class QueueTest {
 		name.enqueue(4);
 		Assert.assertEquals(4, name.queue[0]);
 	}
-	
-	
-	
 }
